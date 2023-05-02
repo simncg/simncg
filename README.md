@@ -13,7 +13,7 @@ I'm an **Economist** and **Data Scientist** with a strong passion for **Machine 
 
 * **Programming Languages**: Python, Stata, R and SQL
 * **Machine Learning**: Classification, Regression, CNN, NLP (Transformers), Time Series Analysis
-* **Economics**: Econometrics, Causal Inference (Synthetic Controls, SDID, DiD, Time-Series, RD, RCTs), Development Economics and Behavioral Economics.
+* **Economics**: Econometrics, Causal Inference, Development Economics and Behavioral Economics.
 * **Relevant Packages**: Tidyverse, Shiny, Pandas, ggplot2, Scikit-learn, TensorFlow, Keras, Numpy, PySpark, data.table, caret
 * **Other Tools**: Git, Shiny R, Dash Python, LATEX, Tableau, Bloomberg, QGis
 * **Languages**: Spanish (Native Speaker), English (Advanced), French (Intermediate)
