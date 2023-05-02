@@ -4,7 +4,7 @@ I'm an **Economist** and **Data Scientist** with a strong passion for **Machine 
 
 🏢 I'm currently working as a **Data Science Consultant** at the **World Bank**, where I collaborate with economists and policymakers on research papers and data-driven insights in development and international economics. Previously, I worked as a **Data Scientist** at **Macrowise**, where I developed innovative investment strategies and ML-based trading bots, among other things.
 
-🎓 I hold a **MSc in Data Science** awarded by Universitat Pompeu Fabra, Universitat Autònoma de Barcelona and **Barcelona School of Economics** and a **BSc in Economics** from **Universidad del Rosario**. 📚
+🎓 I hold a **MSc in Data Science** awarded by **Universitat Pompeu Fabra, Universitat Autònoma de Barcelona and Barcelona School of Economics** and a **BSc in Economics** from **Universidad del Rosario**. 📚
 
 📚 I have also completed the **Data Science for All (DS4A)** program by *Correlation One* and am currently expanding my skillset with a **Data Engineering** course offered by the same organization. 🛠️🌱
 
