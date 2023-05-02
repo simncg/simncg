@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Simon Caicedo! 🚀
+# 👋 Hi, I'm Simón Caicedo! 🚀
 
 I'm an **Economist** and **Data Scientist** with a strong passion for **Machine Learning**, **Economics**, and **Data Science**. I'm constantly on the lookout for exciting challenges and opportunities to apply my skills in the field, aiming to make a positive impact on the world. 🌍💡
 
