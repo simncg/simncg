@@ -6,7 +6,7 @@ I'm an **Economist** and **Data Scientist** with a strong passion for **Machine 
 
 🎓 I hold a **MSc in Data Science** awarded by **Universitat Pompeu Fabra, Universitat Autònoma de Barcelona and Barcelona School of Economics** and a **BSc in Economics** from **Universidad del Rosario**. 📚
 
-📚 I have also completed the **Data Science for All (DS4A)** program by *Correlation One* and am currently expanding my skillset with a **Data Engineering** course offered by the same organization. 🛠️🌱
+📚 I have also completed the **Data Science for All (DS4A)** and the **Data Engineering**  programs by *Correlation One*. 🛠️🌱
 
 
 ## 🧠 Skills & Expertise
@@ -15,5 +15,5 @@ I'm an **Economist** and **Data Scientist** with a strong passion for **Machine 
 * **Machine Learning**: Classification, Regression, CNN, NLP (Transformers), Time Series Analysis
 * **Economics**: Econometrics, Causal Inference, Development Economics and Behavioral Economics.
 * **Relevant Packages**: Tidyverse, Shiny, Pandas, ggplot2, Scikit-learn, TensorFlow, Keras, Numpy, PySpark, data.table, caret
-* **Other Tools**: Git, Shiny R, Dash Python, LATEX, Tableau, Bloomberg, QGis
+* **Other Tools**: AWS (S3, EC2, Redshift, RDS, Lambda, SageMaker), Git, Shiny R, Dash Python, Docker, LATEX, Tableau, Bloomberg, QGis
 * **Languages**: Spanish (Native Speaker), English (Advanced), French (Intermediate)
