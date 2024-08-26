@@ -9,7 +9,7 @@ I'm an **Economist** and **Data Scientist** with a strong passion for **Machine 
 📚 I have also completed the **Data Science for All (DS4A)** and the **Data Engineering**  programs by *Correlation One*. 🛠️🌱
 
 
-## 🧠 Skills & Expertise
+## Skills & Expertise
 
 * **Programming Languages**: Python, Stata, R and SQL
 * **Machine Learning**: Classification, Regression, CNN, NLP (Transformers), Time Series Analysis
