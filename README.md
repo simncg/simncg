@@ -1,6 +1,6 @@
 # Hi, I'm Simón Caicedo Graciani! 
 
-I'm an **Economist** and **Data Scientist** with a strong passion for **Machine Learning**, **Economics**, and **Data Science**. I'm constantly on the lookout for exciting challenges and opportunities to apply my skills in the field, aiming to make a positive impact on the world. 🌍💡
+I'm an **Economist** and **Data Scientist** with a strong passion for **Machine Learning**, **Economics**, and **Data Science**. I'm constantly on the lookout for exciting challenges and opportunities to apply my skills in the field, aiming to make a positive impact on the world.
 
 I'm currently working as a **Consultant** at the **World Bank**, where I collaborate with economists and policymakers on research papers and data-driven insights in development and international economics. Previously, I worked as a **Data Scientist** at **Macrowise**, where I developed innovative investment strategies and Machine Learning-based solutions, among other things.
 
