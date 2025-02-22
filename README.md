@@ -9,7 +9,7 @@ I hold a **MSc in Data Science** awarded by **Universitat Pompeu Fabra, Universi
 I have also completed the **Data Science for All (DS4A)** and the **Data Engineering**  programs by *Correlation One*. 🛠️
 
 
-## Skills & Expertise
+## Skills 
 
 * **Programming Languages**: Python, Stata, R and SQL
 * **Machine Learning**: Classification, Regression, CNN, NLP (Transformers), Time Series Analysis
